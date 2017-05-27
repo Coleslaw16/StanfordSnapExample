@@ -1,0 +1,615 @@
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 11:21:42 2016
+Execution stopped: Graph->IsNode(StartNId), file c:\users\john\downloads\snap-3.0\snap-3.0\snap-core\bfsdfs.h, line 102
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 11:22:22 2016
+Execution stopped: Graph->IsNode(StartNId), file c:\users\john\downloads\snap-3.0\snap-3.0\snap-core\bfsdfs.h, line 102
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 11:28:16 2016
+Execution stopped: Graph->IsNode(StartNId), file c:\users\john\downloads\snap-3.0\snap-3.0\snap-core\bfsdfs.h, line 102
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 14:08:49 2016
+Execution stopped: Graph->IsNode(StartNId), file c:\users\john\downloads\snap-3.0\snap-3.0\snap-core\bfsdfs.h, line 102
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 14:08:49 2016
+Execution stopped: Graph->IsNode(StartNId), file c:\users\john\downloads\snap-3.0\snap-3.0\snap-core\bfsdfs.h, line 102
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 14:09:01 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:10 Type:TVec<class THashKeyDat<class TInt,class TInt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 14:09:02 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:10 Type:TVec<class THashKeyDat<class TInt,class TInt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 14:09:27 2016
+Execution stopped: (1.0 * (Nodes-1) / 2 * (IsDir ? 2 : 1)) >= (1.0 * Edges / Nodes) [Reason:'Not enough nodes (10), for edges (100).'], file c:\users\john\downloads\snap-3.0\snap-3.0\snap-core\ggen.h, line 222
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 14:38:15 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:10 Type:TVec<class THashKeyDat<class TInt,class TInt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 14:38:16 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:10 Type:TVec<class THashKeyDat<class TInt,class TInt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 14:38:31 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:10 Type:TVec<class THashKeyDat<class TInt,class TInt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 17:13:44 2016
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\dt.h, line 366
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 17:23:27 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:0 Vals:0 MxVals:0 Type:TVec<class TFlt,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 17:24:41 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:0 Vals:0 MxVals:0 Type:TVec<class TFlt,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 17:31:17 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 17:38:27 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:TVec<class THashKeyDat<class TStr,class TPair<class TInt,class TInt> >,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 17:38:28 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:TVec<class THashKeyDat<class TStr,class TPair<class TInt,class TInt> >,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 17:38:46 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 17:39:39 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 17:59:26 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 17:59:51 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:07:46 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:10:03 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:10:57 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:13:03 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 18:14:40 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:14:41 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 18:18:50 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:18:50 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:19:19 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:20:41 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:21:03 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:23:35 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:25:29 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:25:57 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 18:27:18 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:27:19 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:28:26 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:31:04 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 18:35:08 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:35:56 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 18:38:17 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:38:17 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:39:04 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:40:34 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:41:03 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:41:53 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 18:44:27 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:44:28 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:45:17 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 18:47:34 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:8 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:47:35 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:8 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 18:48:59 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:8 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:49:00 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:8 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:51:26 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:8 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:52:14 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:8 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:54:47 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:8 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 18:57:54 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:8 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 18:57:55 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:8 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:00:20 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 19:04:42 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:04:43 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:18:20 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 19:21:33 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:21:34 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:26:41 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 19:28:57 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:28:58 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:43:10 2016
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\dt.h, line 366
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 19:44:59 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:20 MxVals:32 Type:TVec<class TFlt,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:45:00 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:20 MxVals:32 Type:TVec<class TFlt,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:49:24 2016
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\dt.h, line 366
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:51:15 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:52:14 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:52:29 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:0 Vals:0 MxVals:0 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:54:57 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:56:46 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:57:36 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:58:11 2016
+Execution stopped: KeyDat.HashCd!=-1, file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\hash.h, line 119
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Fri Dec 02 19:59:10 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Fri Dec 02 19:59:11 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Sat Dec 03 10:44:26 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 10:44:27 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 10:46:23 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Sat Dec 03 10:52:59 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:3 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 10:52:59 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:3 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 10:55:38 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:6 Vals:6 MxVals:6 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 10:59:24 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:6 Vals:6 MxVals:6 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:01:43 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:6 Vals:6 MxVals:6 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:28:04 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'1 or 7 not a node.'], file c:\users\john\downloads\snap-3.0\snap-3.0\snap-core\network.cpp, line 530
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Sat Dec 03 11:28:20 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:28:20 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Sat Dec 03 11:32:26 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:44:58 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:45:24 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Sat Dec 03 11:46:30 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:0 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:46:31 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:0 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Sat Dec 03 11:50:10 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:50:11 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:50:48 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:1 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:51:00 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:58:16 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:1 MxVals:9 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 11:58:39 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:9 Vals:1 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:00:55 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:9 Vals:1 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:08:39 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:0 Vals:0 MxVals:0 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:10:16 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:9 Vals:1 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:10:55 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:9 Vals:1 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:11:09 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:11:43 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+c:\users\john\documents\visual studio 2013\projects\snaptest1\debug\snaptest1.exe.Err
+Sat Dec 03 12:19:48 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:19:49 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:24:46 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:31:07 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:1 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:31:42 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:31:57 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:32:27 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:33:37 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:34:16 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:35:55 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 12:36:21 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:7 Vals:6 MxVals:16 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\documents\visual studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 13:14:25 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:TVec<class THashKeyDat<class TInt,class TFlt>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 468
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 16:15:28 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:6474 MxVals:8192 Type:TVec<class THashKeyDat<class TInt,class TUNGraph::TNode>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\John\Documents\Visual Studio 2013\Projects\SnapTest1\Debug\SnapTest1.exe.Err
+Sat Dec 03 16:16:00 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:6474 MxVals:8192 Type:TVec<class THashKeyDat<class TInt,class TUNGraph::TNode>,int>'], file c:\users\john\downloads\snap-3.0\snap-3.0\glib-core\ds.h, line 464
+--------
